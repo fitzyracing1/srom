@@ -1,0 +1,9 @@
+{
+  "machine": "SROM",
+  "kind": "stored-program computer",
+  "cycles": 26,
+  "halted": true,
+  "acc": 1.0,
+  "ports": [1.0],
+  "decision": "ACT"
+}

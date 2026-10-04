@@ -1,11 +1,15 @@
-# AIC-1
+# SROM
 
-Minimal inference core. The chip issues a fixed microprogram. The host obeys every opcode.
+Stored-program computer built on the AIC-1 inference core.
 
-Last run: score 0.831318, gate 1, action ACT.
+Memory holds the program. A clock fetches, decodes, and executes. The boot ROM loads eight sensor features, runs MAC / ReLU / sigmoid, compares against 0.62, and writes the output port.
+
+Last run: 26 cycles, port `1.0`, decision **ACT**.
 
 ```
-python3 ai_chip.py
+python3 srom.py
 ```
 
-Writes `ai_chip_says.json` beside the script.
+Writes `srom_run.json`.
+
+ISA: NOP LOAD STORE LDI ADD SUB MUL MAC RELU SIG CMP JMP JZ JGE IN OUT HALT.
