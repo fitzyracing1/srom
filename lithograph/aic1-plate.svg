@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="3200" viewBox="0 0 2400 3200">
+  <title>AIC-1 inference core lithograph plate</title>
+  <desc>Key plate for the first chip, not the stored-program computer. Spot gold on weight III and the ACT pad.</desc>
+  <rect width="2400" height="3200" fill="#f4efe4"/>
+  <g fill="none" stroke="#1a1a1a" stroke-width="6">
+    <rect x="280" y="220" width="1840" height="2280"/>
+    <rect x="360" y="300" width="1680" height="2120"/>
+  </g>
+  <g font-family="Times New Roman, Times, serif" fill="#1a1a1a" text-anchor="middle">
+    <text x="1200" y="430" font-size="84" letter-spacing="8">AIC-1</text>
+    <text x="1200" y="500" font-size="36" letter-spacing="6">INFERENCE CORE</text>
+  </g>
+  <g font-family="Times New Roman, Times, serif" font-size="28" fill="#1a1a1a" text-anchor="middle">
+    <rect x="400" y="560" width="1600" height="220" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  </g>
+  <g font-family="Times New Roman, Times, serif" text-anchor="middle" fill="#1a1a1a">
+    <g font-size="26">
+      <text x="500" y="620">I</text>
+      <text x="700" y="620">II</text>
+      <text x="900" y="620">III</text>
+      <text x="1100" y="620">IV</text>
+      <text x="1300" y="620">V</text>
+      <text x="1500" y="620">VI</text>
+      <text x="1700" y="620">VII</text>
+      <text x="1900" y="620">VIII</text>
+    </g>
+    <g font-size="32">
+      <text x="500" y="710">0.42</text>
+      <text x="700" y="710">-0.18</text>
+      <text x="900" y="710">0.91</text>
+      <text x="1100" y="710">0.07</text>
+      <text x="1300" y="710">-0.33</text>
+      <text x="1500" y="710">0.55</text>
+      <text x="1700" y="710">0.12</text>
+      <text x="1900" y="710">-0.64</text>
+    </g>
+  </g>
+  <rect x="820" y="640" width="160" height="100" fill="#c4a35a" fill-opacity="0.85" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="900" y="710" font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle" fill="#1a1a1a">0.91</text>
+  <rect x="400" y="860" width="280" height="280" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="540" y="990" font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle" fill="#1a1a1a">BIAS</text>
+  <text x="540" y="1045" font-family="Times New Roman, Times, serif" font-size="40" text-anchor="middle" fill="#1a1a1a">0.15</text>
+  <rect x="760" y="860" width="1240" height="520" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="1380" y="920" font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle" fill="#1a1a1a">16-WORD SRAM</text>
+  <g font-family="Times New Roman, Times, serif" font-size="28" text-anchor="middle" fill="#1a1a1a">
+    <text x="920" y="1020">0.80</text><text x="1160" y="1020">0.20</text><text x="1400" y="1020">1.10</text><text x="1640" y="1020">-0.40</text>
+    <text x="920" y="1120">0.50</text><text x="1160" y="1120">0.30</text><text x="1400" y="1120">0.90</text><text x="1640" y="1120">-0.10</text>
+    <text x="920" y="1220">1.595</text><text x="1160" y="1220">1.595</text><text x="1400" y="1220">0.831</text><text x="1640" y="1220">1</text>
+  </g>
+  <rect x="400" y="1460" width="1600" height="280" fill="none" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="1200" y="1520" font-family="Times New Roman, Times, serif" font-size="32" text-anchor="middle" fill="#1a1a1a">OPCODE ROM</text>
+  <g font-family="Times New Roman, Times, serif" font-size="26" text-anchor="middle" fill="#1a1a1a">
+    <text x="500" y="1640">RESET</text>
+    <text x="700" y="1640">LOAD</text>
+    <text x="880" y="1640">MAC</text>
+    <text x="1060" y="1640">RELU</text>
+    <text x="1240" y="1640">SIG</text>
+    <text x="1440" y="1640">THRESH</text>
+    <text x="1640" y="1640">WRITE</text>
+    <text x="1840" y="1640">HALT</text>
+  </g>
+  <text x="1200" y="1705" font-family="Times New Roman, Times, serif" font-size="22" text-anchor="middle" fill="#1a1a1a">threshold 0.62 · score 0.831318 · gate 1</text>
+  <rect x="1680" y="1780" width="280" height="120" fill="#c4a35a" stroke="#1a1a1a" stroke-width="3"/>
+  <text x="1820" y="1852" font-family="Times New Roman, Times, serif" font-size="40" text-anchor="middle" fill="#1a1a1a">ACT</text>
+  <text x="1200" y="2680" font-family="Times New Roman, Times, serif" font-size="54" text-anchor="middle" fill="#1a1a1a" letter-spacing="6">AIC-1 INFERENCE CORE</text>
+  <line x1="760" y1="2720" x2="1640" y2="2720" stroke="#1a1a1a" stroke-width="2"/>
+  <text x="1200" y="2860" font-family="Times New Roman, Times, serif" font-size="22" text-anchor="middle" fill="#1a1a1a">KEY PLATE · first file · not the stored-program computer</text>
+</svg>
