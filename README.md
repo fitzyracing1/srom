@@ -13,3 +13,8 @@ python3 srom.py
 Writes `srom_run.json`.
 
 ISA: NOP LOAD STORE LDI ADD SUB MUL MAC RELU SIG CMP JMP JZ JGE IN OUT HALT.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/srom/wiki](https://github.com/fitzyracing1/srom/wiki)
